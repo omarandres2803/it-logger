@@ -1,0 +1,23 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "dummy log",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-11-15T05:39:16.718Z"
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Omar",
+      "lastName": "Gomez",
+      "id": 3
+    },
+    {
+      "firstName": "Priscila",
+      "lastName": "Castillo",
+      "id": 4
+    }
+  ]
+}
